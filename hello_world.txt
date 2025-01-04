@@ -1,0 +1,2 @@
+This is a new course for understanding web development and dig deeper
+ into full stack development.
